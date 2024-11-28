@@ -3,7 +3,7 @@
 
 **Anishapanwar10/Anishapanwar10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-### 🌟 Skills & Expertise
+### ✨ Skills & Expertise
 
 - **Languages & Frameworks**: Proficient in C#, java, Python, C++.
 - **Backend Development**: 
